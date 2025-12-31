@@ -1,11 +1,14 @@
 ## Hi there 👋
 I’m currently working on 🔭
+
 DevOps-focused projects using Docker & Kubernetes, building scalable, containerized systems and CI/CD-ready environments.
 
 I’m currently learning🌱
+
 Core DevOps concepts and mindset: CI/CD, system reliability, infrastructure as code, monitoring, cloud-native architecture, and Kubernetes best practices.
 
 I’m looking to collaborate on
+
 DevOps, Cloud Engineering, automation projects, and hackathons that solve real operational and scalability challenges.
 <!--
 **ES-Mohamed609/ES-Mohamed609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
